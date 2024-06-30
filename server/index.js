@@ -12,7 +12,7 @@ const StudentModel = require('./models/Student1');
 const AttendanceModel = require('./models/Attendance2');
 app.use(express.json());
 app.use(cors({ origin: ["http://localhost:3000", "https://mern-attendance-app.onrender.com"] }));
-mongoose.connect('mongodb+srv://gurucharan:Premguru125@cluster.t9bqdyu.mongodb.net/food?retryWrites=true&w=majority', {
+mongoose.connect('// add your mongodb connection url', {
     useNewUrlParser: true,
 });
 
