@@ -7,7 +7,7 @@ Hey everyone, it’s Guru Charan K S (Gc) here!
 
 I'm thrilled to share an exciting update on our Attendance Management System. We've created a robust web application using the MERN stack (MongoDB, Express.js, React.js, Node.js) with Firebase Authentication and Storage. This system streamlines the management of student attendance, making it easier than ever to track, update, and export attendance records.
 
-If you find this project helpful or interesting, please consider starring the repository on GitHub! Your support is greatly appreciated.
+**If you find this project helpful or interesting, please consider starring the repository on GitHub! Your support is greatly appreciated.**
 
 Feel free to check out my other repositories:
 
