@@ -1,0 +1,76 @@
+.StudentList {
+    margin-top: 20px;
+}
+
+.search-bar {
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+thead {
+    background-color: #f2f2f2;
+}
+
+th {
+    padding: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+tbody td {
+    padding: 12px;
+    text-align: center;
+}
+
+.attendance-container {
+    display: flex;
+    align-items: center;
+    text-align:center;
+    justify-content: center;
+}
+
+.attendance-container label {
+    margin-right: 10px;
+    color: #555;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.attendance-container input[type='radio'] {
+    margin-right: 5px;
+    align-items: center;
+    vertical-align: middle;
+}
+
+input[type='text'] {
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+input[type='text']:focus {
+    outline: none;
+    border-color: #888;
+    box-shadow: 0 0 5px #ddd;
+}
+
+/* Hover and Selected Styles */
+
+tr:hover {
+    background-color: #f7f7f7;
+}
+
+tr.selected {
+    background-color: #e2e2e2;
+}
+
+tr.selected:hover {
+    background-color: #cfcfcf;
+}

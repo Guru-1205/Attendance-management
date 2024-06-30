@@ -1,0 +1,161 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input[type='text'],
+input[type='number'] {
+  margin-top: 5px;
+  padding: 5px;
+  width: 200px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 8px 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+.StudentList thead {
+  background-color: #007bff;
+  color: black;
+  text-align: center;
+  /* Center the heading */
+}
+table th,
+table td {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+table th {
+  background-color: #f9f9f9;
+  font-weight: bold;
+  text-align: left;
+}
+
+.StudentForm {
+  margin-bottom: 20px;
+}
+
+.StudentForm input[type='text'],
+.StudentForm input[type='number'] {
+  margin-right: 10px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.StudentForm button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.StudentForm button:hover {
+  background-color: #0056b3;
+}
+
+.Student {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-align: left;
+  background-color: #f9f9f9;
+}
+
+.Student h2 {
+  margin-bottom: 5px;
+}
+
+.Student p {
+  margin-bottom: 10px;
+}
+
+.Student label {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.Student input[type='radio'] {
+  margin-right: 5px;
+}
+
+.UpdateButton,
+.DownloadButton {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.UpdateButton:hover,
+.DownloadButton:hover {
+  background-color: #0056b3;
+}
+
+.DownloadButton {
+  margin-left: 10px;
+}
+
+.DownloadButton:focus {
+  outline: none;
+}
+
+.DownloadButton:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Add this to your existing CSS or create a new CSS file */
+/* Add this to your existing CSS or create a new CSS file */
+.MenuBar {
+  background-color: #333;
+  overflow: hidden;
+  text-align: center;
+  /* Center the navigation links */
+}
+
+.MenuBar a {
+  display: inline-block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: background-color 0.3s;  
+}
+
+.MenuBar a:hover {
+  background-color: #ddd;
+  color: #333;
+}
+
