@@ -17,7 +17,6 @@ Feel free to check out my other repositories:
 ## Table of Contents
 - [👋 Introduction](#introduction)
 - [✨ Features](#features)
-- [📸 Demo](#demo)
 - [🛠️ Technologies Used](#technologies-used)
 - [🔧 Prerequisites](#prerequisites)
 - [🚀 Installation](#installation)
@@ -51,9 +50,6 @@ The Attendance Management System is a web application built using the MERN stack
 
 - **📱 Responsive Design**: The application is designed to work seamlessly across various devices, including desktops, tablets, and mobile phones.
 
-## Demo
-
-<!-- Include screenshots or a link to a live demo if available -->
 
 ## Technologies Used
 
@@ -76,7 +72,7 @@ The Attendance Management System is a web application built using the MERN stack
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/attendance-management-system.git
+    git clone https://github.com/Guru-1205/attendance-management-system.git
     cd attendance-management-system
     ```
 
