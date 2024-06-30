@@ -118,10 +118,6 @@ The Attendance Management System is a web application built using the MERN stack
       npm start
       ```
 
-4. **Visit**: 
-   - Frontend: [http://localhost:3000](http://localhost:3000)
-   - Backend: [http://localhost:5000](http://localhost:5000)
-
 ## Usage
 
 1. **Login/Register**: Register a new user or login with existing credentials.
